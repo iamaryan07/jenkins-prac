@@ -31,3 +31,4 @@ Install Nginx reverse proxy to make this application available.
 
 
 Testing Jenkins automation
+Testing Jenkins automatic deployment
